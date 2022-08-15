@@ -1,0 +1,5 @@
+{"name":"command_name","arguments":["verbose","overwrite","unlimited","log"],"options":{"log_file":["app.log"],"methods":["create","update","delete"],"paginate":["50"]}}
+{"name":"zzz","arguments":["aaa","ccc","eee","bbb"],"options":[]}
+{"name":"ccc","arguments":["verbose","overwrite","unlimited","log"],"options":{"log_file":["app.log"],"methods":["create","update","delete"],"paginate":["50"]}}
+{"name":"aaa","arguments":["verbose","overwrite","unlimited","log"],"options":{"log_file":["app.log"],"methods":["create","update","delete"],"paginate":["50"]}}
+{"name":"cccs","arguments":["help"],"options":{"zzz":["aaa","bbb"]}}
