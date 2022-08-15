@@ -1,7 +1,8 @@
-1.Create application for adding new console commands.
-2.Create binded Library for realize needed features.
+Create application for adding new console commands and binded Library for realize needed features.
 
 RUN:
+
+
 1.Run application without arguments - output lis of all exists commands: 
 
 ![Screenshot_2](https://user-images.githubusercontent.com/111265535/184584820-1e8ee371-de5f-48a9-b7a1-8b966e3d6142.png)
